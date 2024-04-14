@@ -4,5 +4,16 @@
   "artist": "Chiba You",
   "author": "Chiba You",
   "cover": "https://www.nautiljon.com/images/manga/00/10/kindergarden_wars_23401.webp?1712050306",
-  "chapters": {}
+  "chapters": {
+    "21": {
+      "title": "Le Beau Gosse Bronzè",
+      "volume": "3",
+      "last_updated": "1713090233",
+      "groups": {
+        "": [
+          "https://imgur.com/a/uh5Vgj1"
+        ]
+      }
+    }
+  }
 }
